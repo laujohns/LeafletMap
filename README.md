@@ -4,6 +4,4 @@
 
 ## [The final website can be found here.](http://laurenjohns.shinyapps.io/dentalography)
 
-## Here is a screenshot: 
-
 ![alt text](https://github.com/laujohns/LeafletMap/blob/master/website.png "Map Screenshot")
